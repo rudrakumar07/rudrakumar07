@@ -90,12 +90,6 @@ A compact peer-to-peer file transfer app for direct Ethernet links. Single EXE, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/rudrakumar07">
-    <img src="https://github-readme-stats.vercel.app/api?username=rudrakumar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rudra's GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakumar07&theme=tokyonight&hide_border=true" alt="Rudra's GitHub streak" />
 </p>
 
