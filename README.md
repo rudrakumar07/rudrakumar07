@@ -1,32 +1,33 @@
+<!-- SEO: Rudra Kumar | IIT Kanpur sophomore, CRDT engineer, distributed systems, security researcher, open source contributor -->
 <div align="center">
 
 <!-- HEADER WITH ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:0e75b6,75:1f6feb,100:58a6ff&height=220&section=header&text=RUDRA%20KUMAR&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Chemistry%20Undergrad%20@%20IIT%20Kanpur%20%7C%20Building%2034x%20Faster%20CRDTs&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:0e75b6,75:1f6feb,100:58a6ff&height=220&section=header&text=RUDRA%20KUMAR&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Sophomore%20@%20IIT%20Kanpur%20%7C%20Building%2034x%20Faster%20CRDTs&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="Rudra Kumar, sophomore at IIT Kanpur, building 34x faster CRDTs" />
 
 <!-- CODING ANIMATION -->
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="300" alt="Coding" />
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="300" alt="Rudra Kumar coding animation" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=Building+34x+Faster+CRDTs+⚡;Security+Researcher+🔐;Open+Source+Contributor+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=Building+34x+Faster+CRDTs+⚡;Security+Researcher+🔐;Open+Source+Contributor+💻;Sophomore+@+IIT+Kanpur+🎓)](https://git.io/typing-svg)
 
 <!-- BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rudrakumar07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IITK-29-DC3545?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Mumbai-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs-Welcome-00C853?style=for-the-badge&logo=gitpullrequest&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=rudrakumar07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rudrakumar07 GitHub profile views" />
+  <img src="https://img.shields.io/badge/IITK-29-DC3545?style=for-the-badge&logo=bookstack&logoColor=white" alt="IIT Kanpur" />
+  <img src="https://img.shields.io/badge/Location-Mumbai-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Located in Mumbai, India" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-00C853?style=for-the-badge&logo=gitpullrequest&logoColor=white" alt="Pull requests welcome" />
 </p>
 
 <!-- SOCIAL LINKS -->
 <p>
-  <a href="mailto:rudrachhaya700@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/rudra_kumar_68"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rudra-kumar-5723753a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/rudrakumar07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:rudrachhaya700@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rudra Kumar" /></a>
+  <a href="https://instagram.com/rudra_kumar_68"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Rudra Kumar Instagram" /></a>
+  <a href="https://linkedin.com/in/rudra-kumar-5723753a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rudra Kumar LinkedIn" /></a>
+  <a href="https://github.com/rudrakumar07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Rudra Kumar GitHub profile" /></a>
 </p>
 
 <!-- SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution graph snake animation by Rudra Kumar" />
 
 </div>
 
@@ -34,7 +35,7 @@
 
 ## 🧠 About Me
 
-I'm a **Chemistry undergrad at IIT Kanpur** who codes more than he studies. I got into programming because I wanted to understand how things work under the hood — that curiosity led me from writing simple Python scripts to building **CRDT libraries that are 34x faster than the industry standard**.
+I'm a **Chemistry undergrad and sophomore at IIT Kanpur** who codes more than he studies. I got into programming because I wanted to understand how things work under the hood — that curiosity led me from writing simple Python scripts to building **CRDT libraries that are 34x faster than the industry standard**.
 
 I'm deeply interested in **real-time collaborative systems** — the kind of tech that powers Google Docs and Figma. I built my own CRDT library ([Rjs](https://github.com/rudrakumar07/Rjs)) from scratch because I wanted to see if I could do it better. I also love **security** — I've participated in hackathons where I found API exploits, and I once built a chat app disguised as a newspaper just to learn how backdoor authentication works.
 
