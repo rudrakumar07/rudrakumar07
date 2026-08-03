@@ -138,7 +138,7 @@ I actively contribute to open source projects I use and believe in:
 | [OpenCV](https://github.com/opencv/opencv) | Computer vision library |
 | [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) | Object detection & tracking |
 | [AgentKit](https://github.com/0xgasless/agentkit) | AI agent crypto toolkit |
-| [Summer Projects 2026](https://github.com/pclubiitk/Summer-Projects-2026) | Product Club IITK |
+| [Summer Projects 2026](https://github.com/pclubiitk/Summer-Projects-2026) | Programming Club IITK |
 
 
 
