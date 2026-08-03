@@ -123,38 +123,22 @@ Compact peer-to-peer file transfer app for direct Ethernet links. Single EXE, no
 
 ## 🌟 Open Source Contributions
 
-I actively contribute to open source projects I use and believe in. Here's where I've submitted PRs — some merged, some rejected, all learning experiences:
+I actively contribute to open source projects I use and believe in:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**Python Ecosystem**
-- [Textual](https://github.com/Textualize/textual) — TUI framework
-- [Falcon](https://github.com/falconry/falcon) — Web API framework
-- [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) — Database toolkit
-- [Click](https://github.com/pallets/click) — CLI toolkit
-- [Marshmallow](https://github.com/marshmallow-code/marshmallow) — Serialization
-- [Twine](https://github.com/pypa/twine) — PyPI utilities
-- [Flask-Admin](https://github.com/pallets-eco/flask-admin) — Admin interface
-- [Attrs](https://github.com/python-attrs/attrs) — Python classes
-
-    </td>
-    <td width="50%" valign="top">
-
-**DevTools & Infra**
-- [HTTPie CLI](https://github.com/httpie/cli) — HTTP client
-- [Rich](https://github.com/Textualize/rich) — Terminal formatting
-- [OpenCV](https://github.com/opencv/opencv) — Computer vision
-- [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) — Object detection
-- [AgentKit](https://github.com/0xgasless/agentkit) — AI agent toolkit
-
-**Community**
-- [Summer Projects 2026](https://github.com/pclubiitk/Summer-Projects-2026) — Product Club IITK
-
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| [Textual](https://github.com/Textualize/textual) | Modern Python TUI framework |
+| [Falcon](https://github.com/falconry/falcon) | High-performance web API framework |
+| [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) | Database toolkit for Python |
+| [Click](https://github.com/pallets/click) | CLI toolkit for Python |
+| [Marshmallow](https://github.com/marshmallow-code/marshmallow) | Object serialization library |
+| [Twine](https://github.com/pypa/twine) | PyPI publishing utilities |
+| [HTTPie CLI](https://github.com/httpie/cli) | Modern HTTP client |
+| [Rich](https://github.com/Textualize/rich) | Beautiful terminal formatting |
+| [OpenCV](https://github.com/opencv/opencv) | Computer vision library |
+| [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) | Object detection & tracking |
+| [AgentKit](https://github.com/0xgasless/agentkit) | AI agent crypto toolkit |
+| [Summer Projects 2026](https://github.com/pclubiitk/Summer-Projects-2026) | Product Club IITK |
 
 
 
