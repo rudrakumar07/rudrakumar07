@@ -29,7 +29,23 @@
 
 ---
 
-## <h2 align="center">🧠 About Me</h2>
+## 🎨 Pick a Theme
+
+<div align="center">
+
+> **Current theme: Tokyo Night** — Want a different look? Click below:
+
+[![Tokyo Night](https://img.shields.io/badge/Tokyo_Night-7AA2F7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/rudrakumar07/blob/main/README.md)
+[![Dracula](https://img.shields.io/badge/Dracula-BD93F9?style=for-the-badge&logo=dracula&logoColor=white)](https://github.com/rudrakumar07/blob/main/README.md?theme=dracula)
+[![GitHub Dark](https://img.shields.io/badge/GitHub_Dark-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudrakumar07/blob/main/README.md?theme=github-dark)
+[![Catppuccin](https://img.shields.io/badge/Catppuccin-F5C2E7?style=for-the-badge&logo=terminal&logoColor=black)](https://github.com/rudrakumar07/blob/main/README.md?theme=catppuccin_mocha)
+[![Green](https://img.shields.io/badge/Green_Nur-00FF00?style=for-the-badge&logo=codegreen&logoColor=black)](https://github.com/rudrakumar07/blob/main/README.md?theme=green_nur)
+
+</div>
+
+---
+
+## 🧠 About Me
 
 <div align="center">
 
@@ -57,7 +73,7 @@ philosophy: "Build things that are fast, secure, and actually useful"
 
 ---
 
-## <h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -123,7 +139,7 @@ philosophy: "Build things that are fast, secure, and actually useful"
 
 ---
 
-## <h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -155,7 +171,7 @@ philosophy: "Build things that are fast, secure, and actually useful"
 
 ---
 
-## <h2 align="center">🌟 Open Source Contributions</h2>
+## 🌟 Open Source Contributions
 
 <table>
   <tr>
@@ -190,7 +206,7 @@ philosophy: "Build things that are fast, secure, and actually useful"
 
 ---
 
-## <h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -212,18 +228,9 @@ philosophy: "Build things that are fast, secure, and actually useful"
 
 </div>
 
-<div align="center">
-
-<!-- Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rudrakumar07&bg_color=0d1117&color=58a6ff&line=0e75b6&point=ffffff&area=true&area_color=0e75b6&hide_border=true" width="95%" alt="Activity Graph" />
-</a>
-
-</div>
-
 ---
 
-## <h2 align="center">🏆 Achievements</h2>
+## 🏆 Achievements
 
 <div align="center">
 
@@ -237,26 +244,7 @@ philosophy: "Build things that are fast, secure, and actually useful"
 
 ---
 
-## <h2 align="center">🎨 Theme Options</h2>
-
-<div align="center">
-
-> This profile uses the **Tokyo Night** dark theme. Other available themes:
-
-| Theme | Preview |
-|:---:|:---:|
-| 🌙 Tokyo Night | `theme=tokyonight` |
-| 🌅 Dracula | `theme=dracula` |
-| 🌊 Ocean Dark | `theme=ocean-dark` |
-| 🔥 Catppuccin Mocha | `theme=catppuccin_mocha` |
-| 🌲 Green | `theme=green_nur` |
-| ⚡ Radxd | `theme=radxd` |
-
-</div>
-
----
-
-## <h2 align="center">📫 Contact</h2>
+## 📫 Contact
 
 <div align="center">
 
@@ -271,7 +259,6 @@ philosophy: "Build things that are fast, secure, and actually useful"
 
 <div align="center">
 
-<!-- FOOTER ANIMATION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:0e75b6,75:1f6feb,100:58a6ff&height=100&section=footer" width="100%" />
 
 </div>
