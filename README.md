@@ -3,6 +3,9 @@
 <!-- HEADER WITH ANIMATION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:0e75b6,75:1f6feb,100:58a6ff&height=220&section=header&text=RUDRA%20KUMAR&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Chemistry%20Undergrad%20@%20IIT%20Kanpur%20%7C%20Building%2034x%20Faster%20CRDTs&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
 
+<!-- CODING ANIMATION -->
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="300" alt="Coding" />
+
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=Building+34x+Faster+CRDTs+⚡;Security+Researcher+🔐;Open+Source+Contributor+💻)](https://git.io/typing-svg)
 
@@ -29,47 +32,13 @@
 
 ---
 
-## 🎨 Pick a Theme
-
-<div align="center">
-
-> **Current theme: Tokyo Night** — Want a different look? Click below:
-
-[![Tokyo Night](https://img.shields.io/badge/Tokyo_Night-7AA2F7?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/rudrakumar07/blob/main/README.md)
-[![Dracula](https://img.shields.io/badge/Dracula-BD93F9?style=for-the-badge&logo=dracula&logoColor=white)](https://github.com/rudrakumar07/blob/main/README.md?theme=dracula)
-[![GitHub Dark](https://img.shields.io/badge/GitHub_Dark-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudrakumar07/blob/main/README.md?theme=github-dark)
-[![Catppuccin](https://img.shields.io/badge/Catppuccin-F5C2E7?style=for-the-badge&logo=terminal&logoColor=black)](https://github.com/rudrakumar07/blob/main/README.md?theme=catppuccin_mocha)
-[![Green](https://img.shields.io/badge/Green_Nur-00FF00?style=for-the-badge&logo=codegreen&logoColor=black)](https://github.com/rudrakumar07/blob/main/README.md?theme=green_nur)
-
-</div>
-
----
-
 ## 🧠 About Me
 
-<div align="center">
+I'm a **Chemistry undergrad at IIT Kanpur** who codes more than he studies. I got into programming because I wanted to understand how things work under the hood — that curiosity led me from writing simple Python scripts to building **CRDT libraries that are 34x faster than the industry standard**.
 
-```yaml
-name: "Rudra Kumar"
-alias: "rudrakumar07"
-education: "B.Sc. Chemistry @ IIT Kanpur (2025-2029)"
-location: "Mumbai, India 🇮🇳"
+I'm deeply interested in **real-time collaborative systems** — the kind of tech that powers Google Docs and Figma. I built my own CRDT library ([Rjs](https://github.com/rudrakumar07/Rjs)) from scratch because I wanted to see if I could do it better. I also love **security** — I've participated in hackathons where I found API exploits, and I once built a chat app disguised as a newspaper just to learn how backdoor authentication works.
 
-currently:
-  building: "Next-gen CRDT libraries"
-  learning: "Distributed Systems & Security"
-  exploring: "AI/ML integration"
-
-interests:
-  - 🔄 Real-Time Collaborative Systems
-  - 🔒 Application Security & Exploits
-  - 🧬 CRDTs & Distributed Computing
-  - 🌐 Open Source Development
-
-philosophy: "Build things that are fast, secure, and actually useful"
-```
-
-</div>
+When I'm not coding or in the chemistry lab, I'm probably reading about distributed systems, exploring AI tools, or helping out at the **Product Club** at IITK. I believe in building things that are fast, secure, and actually useful.
 
 ---
 
@@ -81,26 +50,16 @@ philosophy: "Build things that are fast, secure, and actually useful"
 
 ### <a href="https://github.com/rudrakumar07/Rjs">⚡ Rjs</a> — High-Performance CRDT Library
 
-> A drop-in alternative to Yjs with **34.9x faster** sequential inserts and **6.4x less** memory usage.
+A drop-in alternative to Yjs with **34.9x faster** sequential inserts and **6.4x less** memory usage. Built on block-wise RGA with packed numeric IDs and Yjs-compatible binary encoding.
 
-- Block-wise RGA with packed numeric IDs
-- Yjs-compatible binary encoding
-- **18,100+ tests** for reliability
-- Handles concurrent edits & undo/redo
-
-`JavaScript` `CRDTs` `18K+ Tests`
+`JavaScript` `CRDTs` `18,100+ tests`
 
     </td>
     <td width="50%" valign="top">
 
 ### <a href="https://github.com/rudrakumar07/Techie-Picasso">🎨 Techie-Picasso</a> — Collaborative Whiteboard
 
-> Multiplayer drawing app with live cursors, stickers, and infinite canvas.
-
-- Real-time sync with Yjs CRDTs
-- Multi-server with Redis pub/sub
-- Undo/redo, stickers, comment pins
-- React + TypeScript + Docker
+Multiplayer drawing app with live cursors, comment pins, stickers, undo/redo, and infinite canvas. Multi-server support with Redis pub/sub.
 
 `TypeScript` `React` `Docker`
 
@@ -111,25 +70,16 @@ philosophy: "Build things that are fast, secure, and actually useful"
 
 ### <a href="https://github.com/rudrakumar07/deceiving-chatting-app">📰 The Daily Observer</a> — Secure Hidden Chat
 
-> A newspaper platform with a hidden real-time chat system.
+A newspaper platform with a hidden real-time chat system. Challenge-response auth, auto-lockdown against SQLi/XSS, and admin dashboard.
 
-- Challenge-response authentication
-- Auto-lockdown against SQLi/XSS
-- File sharing & admin dashboard
-- Python + FastAPI + Redis
-
-`Python` `FastAPI` `Security`
+`Python` `FastAPI` `Redis`
 
     </td>
     <td width="50%" valign="top">
 
 ### <a href="https://github.com/rudrakumar07/Ethernet-Transfer">📡 Ethernet Transfer</a> — P2P File Transfer
 
-> Compact peer-to-peer file transfer. Single EXE, no dependencies.
-
-- Direct peer-to-peer transfer
-- Single executable — zero deps
-- PyQt5 GUI, MIT Licensed
+Compact peer-to-peer file transfer app for direct Ethernet links. Single EXE, no Python required. MIT licensed.
 
 `Python` `PyQt5`
 
@@ -173,6 +123,8 @@ philosophy: "Build things that are fast, secure, and actually useful"
 
 ## 🌟 Open Source Contributions
 
+I actively contribute to open source projects I use and believe in. Here's where I've submitted PRs — some merged, some rejected, all learning experiences:
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -203,6 +155,8 @@ philosophy: "Build things that are fast, secure, and actually useful"
     </td>
   </tr>
 </table>
+
+
 
 ---
 
